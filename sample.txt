@@ -1,0 +1,5 @@
+This is to be hashed by gitz.
+
+after first commit changes made.
+This is line changed.
+new line changes.
